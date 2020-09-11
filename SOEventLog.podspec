@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   spec.license      = "MIT"
   spec.author         = { "kiran patel" => "kiran.spaceo@gmail.com" }
   spec.platform     = :ios, "9.0"
-  spec.source       = { :git => "https://github.com/KiranPatelSpaceo/SOEventLog.git", :tag => "1.0.3" }
+  spec.source       = { :git => "https://github.com/KiranPatelSpaceo/SOEventLog.git", :tag => "1.0.4" }
 
   spec.source_files  = "SOEventLog"
   spec.exclude_files = "Classes/Exclude"
