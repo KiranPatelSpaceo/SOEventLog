@@ -1,0 +1,11 @@
+framework module SOFramework {
+  umbrella header "SOFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module SOFramework.Swift {
+    header "SOFramework-Swift.h"
+    requires objc
+}
