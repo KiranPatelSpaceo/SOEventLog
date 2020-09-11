@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "SOEventLog"
   spec.version      = "1.0.0"
-  spec.summary      = "A short description of SOEventLog."
+  spec.summary      = "SOEventLog.SOEventLog.SOEventLog.SOEventLog.SOEventLog."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -78,7 +78,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/KiranPatelSpaceo/SOEventLog.git", :tag => "1.0.2" }
+  spec.source       = { :git => "https://github.com/KiranPatelSpaceo/SOEventLog.git", :tag => "1.0.3" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
